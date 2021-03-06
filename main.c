@@ -13,3 +13,4 @@ int main(int argc, char *argv[])
   for(i=0;i<argc;i++)
     printf("n. %d\tval: %s\t\n",i,argv[i]);
 }
+
